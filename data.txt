@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 imiê i nazwisko test test
 
 dane osobowe
+=======
+test test
+
+>>>>>>> newbranch
 
 dane1
