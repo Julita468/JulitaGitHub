@@ -1,1 +1,5 @@
+imiê i nazwisko
+
+dane osobowe
+
 dane1
